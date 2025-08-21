@@ -18,15 +18,9 @@ I've been coding for a few years, mainly in Python and some Front-End Developmen
 
 #### 🌱 Currently Learning
 - Advanced Python frameworks  
-- Modern Front-End technologies (React and others)  
+- Modern Front-End technologies (React, Nodejs and others)  
 - Building more complete and comprehensive projects
-
----
-
-#### 💡 About Me
-- Always curious, always coding  
-- Love experimenting with new ideas and projects  
-- Enjoy sharing knowledge and collaborating on small projects  
+Learning anything that sparks my interest in programming
 
 ---
 
