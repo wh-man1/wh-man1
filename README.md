@@ -8,7 +8,7 @@ I've been coding for a few years, mainly in Python and some Front-End Developmen
 
 ---
 
-#### 🛠 Languages & Tools
+##### 🛠 Languages & Tools
 - Working knowledge of Python and JavaScript  
 - Web Development: HTML, CSS, JavaScript  
 - APIs: Experienced working with APIs  
@@ -16,7 +16,7 @@ I've been coding for a few years, mainly in Python and some Front-End Developmen
 
 ---
 
-#### 🌱 Currently Learning
+##### 🌱 Currently Learning
 - Advanced Python frameworks  
 - Modern Front-End technologies (React, Nodejs and others)  
 - Building more complete and comprehensive projects
@@ -24,7 +24,7 @@ Learning anything that sparks my interest in programming
 
 ---
 
-#### 🎮 Fun & Hobbies
+##### 🎮 Fun & Hobbies
 - Big fan of football ⚽  
 - Love gaming, especially Dota 2  
 - Occasionally working on my YouTube channel in my free time
